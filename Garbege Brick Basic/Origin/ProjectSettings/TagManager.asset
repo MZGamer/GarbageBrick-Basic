@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - Brick
+  - Brick2
+  - Brick3
+  - Brick4
+  - Brick5
+  - Brick6
+  - Brick7
+  - Brick8
+  - Brick9
+  - EffectWall0
+  - Ball
+  - ScoreText
+  - Brick10
+  - EffectBrick1
+  - EffectBrick2
+  - EffectBrick3
+  - EffectBrick4
+  - SongSlect
+  - Brick+1
+  - EffectBrick
+  - Brick011
+  - Brick012
+  - LazerBrick
+  - Brick013
+  - Brick014
+  - LazerBrick10
+  - NetWorkDontDelete
+  - PlayerData
+  - NetworkLinker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 55
+  - Player
+  - Brick
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

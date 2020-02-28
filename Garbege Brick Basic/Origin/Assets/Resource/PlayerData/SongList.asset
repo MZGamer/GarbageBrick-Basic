@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3743cfb1f78d52e4bb7658ca09b87c99, type: 3}
+  m_Name: SongList
+  m_EditorClassIdentifier: 
+  SongData: 
+  - SongName: You Are the Miserable
+    Author: t+pazolite
+    music: {fileID: 8300000, guid: d46a2d1c34856d6488f78469fc3eedd7, type: 3}
+    image: {fileID: 21300000, guid: 506a81d1dc7474448a23b763cba99b61, type: 3}
+    beatmapName: Hard
+  - SongName: Cyanine
+    Author: jioyi
+    music: {fileID: 8300000, guid: 47035034e0cb96347808d6bb6a881193, type: 3}
+    image: {fileID: 21300000, guid: e4ad25b03f2f5c540bbf452bce9508f8, type: 3}
+    beatmapName: Stage2
+  - SongName: Frey's Philosophy
+    Author: Powerless
+    music: {fileID: 8300000, guid: 5b36dc2d21d71d44ea0f5711e35864f9, type: 3}
+    image: {fileID: 21300000, guid: 39130f4232912d947892f6ecdd0af6d2, type: 3}
+    beatmapName: Stage3
+  - SongName: Stasis
+    Author: Maozon
+    music: {fileID: 8300000, guid: 0252decbbd93dd8498abd53067d0567b, type: 3}
+    image: {fileID: 21300000, guid: 5e590b486c36a1544b0350af9acc219b, type: 3}
+    beatmapName: Stage4
+  - SongName: Destr0yer
+    Author: Sakuzyo feat. Nikki Simmons
+    music: {fileID: 8300000, guid: de38f3c8a0b86d844b6e281b3843c8bb, type: 3}
+    image: {fileID: 21300000, guid: 2ccf230dcc68d224ea5432812d5124ac, type: 3}
+    beatmapName: Stage5
+  - SongName: Daybreak Frontline
+    Author: "Orangestar feat. \u3081\u3042\u308A\u30FC"
+    music: {fileID: 8300000, guid: 1825ce904cd7f794299c5da096d82e7b, type: 3}
+    image: {fileID: 21300000, guid: 536ae8ae732edf94bb0cd15bfd44dda3, type: 3}
+    beatmapName: Stage6
+  - SongName: QLWA
+    Author: t+pazolite
+    music: {fileID: 8300000, guid: f655599e7e1b5b941b9174082d8340d8, type: 3}
+    image: {fileID: 21300000, guid: 42246e0988ef8aa47988cb6257d96e92, type: 3}
+    beatmapName: QLWA
